@@ -1,1 +1,1 @@
-# Python-
+# Python独学用のレポジトリ
