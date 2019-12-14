@@ -1,0 +1,5 @@
+$total = 0;
+foreach $number (1, 2, 3, 4, 5){
+    $total = $total + $number;
+}
+print $total, "\n";

@@ -1,0 +1,3 @@
+def add_10(num):
+    add_num = num + 10
+    return add_num
