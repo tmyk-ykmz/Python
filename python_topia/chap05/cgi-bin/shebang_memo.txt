@@ -1,0 +1,9 @@
+
+
+http://localhost:8081/cgi-bin/kakugen.py
+とりあえず動く
+バージョン指定出来てるかは不明
+
+#!/home/ty/.pyenv/versions/3.8.0/bin/python
+#!/home/ty/.pyenv/shims/python3.8
+#!/usr/bin/env python3
